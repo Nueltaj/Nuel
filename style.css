@@ -1,0 +1,27 @@
+body {
+    font-size: 1em;/*1em =16px. em allows the user to change the sizr of the text displayed*/
+    /*font 1*/
+    font-family: "Courier New", Courier, monospace;
+}
+h1{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10vw;/*thus chabges the fontsize to the size of the screen*//*1vw is 1% of the viewport(screen a person is using)*/
+}
+
+        .p1 {    
+                font-family:   "Brush Script MT", cursive;
+
+}
+
+
+
+.p2 {
+  font-family: "Lucida Console",  monospace;
+}
+.p3{
+        font-family: "Trirong", serif;
+
+}
+.p4{       font-family:"Courier New", monospace;
+
+}
